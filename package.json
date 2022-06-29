@@ -1,0 +1,22 @@
+{
+  "name": "docuhost",
+  "version": "1.0.0",
+  "description": "@polymeshassociation/polymesh-sdk / [Modules](modules.md)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantasdeveloper/docuhost.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantasdeveloper/docuhost/issues"
+  },
+  "homepage": "https://github.com/prashantasdeveloper/docuhost#readme"
+}
